@@ -44,4 +44,3 @@ Se probaron diferentes modelos de machine learning, se aplicaron técnicas de im
 **1_regresion_logistica.ipynb**: Modelo de Regresión Logística.  
 **2_random_forest.ipynb**: Modelo de Random Forest.  
 **3_gradient_boosting.ipynb**: Modelo de Gradient Boosting.  
-
