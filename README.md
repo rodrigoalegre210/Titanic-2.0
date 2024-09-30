@@ -36,12 +36,12 @@ Se probaron diferentes modelos de machine learning, se aplicaron técnicas de im
 
 #### Estructura del proyecto.
 
-**EDA1.ipynb**: Exploración inicial de los datos (distribución, primeras visualizaciones).
-**EDA2.ipynb**: Visualizaciones más avanzadas y análisis de correlaciones entre variables.
-**ingenieria_caracteristicas.ipynb**: Creación de nuevas características para los modelos.
-**outliers.ipynb**: Detección y análisis de outliers en las variables numéricas.
-**valores_nulos.ipynb**: Manejo de los valores nulos con técnicas de imputación avanzadas.
-**1_regresion_logistica.ipynb**: Modelo de Regresión Logística.
-**2_random_forest.ipynb**: Modelo de Random Forest.
-**3_gradient_boosting.ipynb**: Modelo de Gradient Boosting.
+**EDA1.ipynb**: Exploración inicial de los datos (distribución, primeras visualizaciones).  
+**EDA2.ipynb**: Visualizaciones más avanzadas y análisis de correlaciones entre variables.  
+**ingenieria_caracteristicas.ipynb**: Creación de nuevas características para los modelos.  
+**outliers.ipynb**: Detección y análisis de outliers en las variables numéricas.  
+**valores_nulos.ipynb**: Manejo de los valores nulos con técnicas de imputación avanzadas.  
+**1_regresion_logistica.ipynb**: Modelo de Regresión Logística.  
+**2_random_forest.ipynb**: Modelo de Random Forest.  
+**3_gradient_boosting.ipynb**: Modelo de Gradient Boosting.  
 
